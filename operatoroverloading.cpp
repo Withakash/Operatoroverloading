@@ -9,4 +9,4 @@ class Number
    Number(int x=0):x(x){ }
    
    }	
-};
+
